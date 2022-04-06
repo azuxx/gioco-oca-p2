@@ -1,6 +1,6 @@
 # gioco-oca-p2
 
-Progetto di Programmazione ad Oggetti (A.A 2008/2009) - Project of Object Oriented Programming
+Progetto di Programmazione ad Oggetti (A.A 2008/2009) - Project of Object Oriented Programming  (A.A 2008/2009)
 
 Titolo: Gioco dell'Oca (con morale)
 
